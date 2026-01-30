@@ -20,7 +20,7 @@
     "@tiptap/extension-bullet-list": "^2.26.1",
     "@tiptap/extension-collaboration": "^2.26.1",
     "@tiptap/extension-document": "^2.26.1",
-    "@tiptap/extension-hard-break": "^2.26.1",
+    "@tiptap/extension-hard-break": "^2.27.2",
     "@tiptap/extension-heading": "^2.26.1",
     "@tiptap/extension-history": "^2.26.1",
     "@tiptap/extension-italic": "^2.26.1",
