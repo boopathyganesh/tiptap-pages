@@ -1,6 +1,6 @@
 {
   "name": "@boopathyganesh/tiptap-pages",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Ultra-fast TipTap pagination extension with 81% faster rendering and enterprise-grade performance",
   "type": "module",
   "main": "dist/index.js",
