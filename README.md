@@ -33,7 +33,10 @@ Enterprise-grade pagination solution with advanced performance optimizations and
 ## 🚀 Installation
 
 ```bash
-# Install from GitHub
+# Install from NPM
+pnpm add @boopathyganesh/tiptap-pages
+
+# Or install from GitHub
 pnpm add https://github.com/boopathyganesh/tiptap-pages.git
 
 # Or clone and use locally
@@ -70,7 +73,7 @@ pnpm run build
 
 ```typescript
 import { useEditor } from '@tiptap/react';
-import { PageExtension, PageDocument, PAGE_FORMATS } from '@adalat-ai/page-extension';
+import { PageExtension, PageDocument, PAGE_FORMATS } from '@boopathyganesh/tiptap-pages';
 import { 
   Paragraph, 
   Text, 
