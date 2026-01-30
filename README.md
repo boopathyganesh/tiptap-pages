@@ -29,6 +29,7 @@ Enterprise-grade pagination solution with advanced performance optimizations and
 - **📋 Advanced Copy-Paste**: Comprehensive copy-paste functionality across pages
 - **🌍 International Support**: Multi-language and Unicode character support
 - **⚡ Performance Optimized**: Efficient pagination algorithms and memory management
+- **✅ TipTap v2 & v3 Compatible**: Works seamlessly with both major versions
 
 ## 🚀 Installation
 
